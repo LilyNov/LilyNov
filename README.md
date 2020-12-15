@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilyNov&layout=compact)](https://github.com/LilyNov/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/LilyNov)
+
