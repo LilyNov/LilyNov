@@ -1,4 +1,4 @@
-<h2>Hi! I love to study and I am learning.</h2>
+<h2>Hi! I like to study and I am learning.</h2>
 
 <h3>I’m currently learning:</h3>
 
