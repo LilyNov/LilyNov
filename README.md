@@ -1,8 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi! I love to study and I am learning.</h2>
+<h2>Hi! I love to study and I am learning.</h2>
 
-<h3>:handshake: I can work in a team</h3>
-
-<h4>I’m currently learning:</h2>
+<h3>I’m currently learning:</h3>
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
