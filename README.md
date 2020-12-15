@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I like to learn new things</h2>
 
-<h3>:handshake: I want to collaborate in teaching with other students</h3>
+<h3>:handshake: I can work in a team</h3>
 
 <h2>I’m currently learning:</h2>
 
