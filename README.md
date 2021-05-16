@@ -1,4 +1,4 @@
-<h2>Hi!</h2>
+<h2>Hello everyone! I had three team projects and many small own projects. During my last team project we had find a way to streamline our process to meet a deadline. First, we had a great team, we all followed the same goal. We held a brainstorming session where we generated ideas on how we can take our tasks successfully. In the end we managed to meet the deadline and made a presentation of the project at the appointed time.</h2>
 
 <h3>I’m currently learning:</h3>
 
@@ -15,7 +15,7 @@
 <h4>You can reach me in</h2>
 
 <p><a href="mailto:kplily85@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://github.com/LilyNov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lily-novikova-612178133/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 [![LilyNov`s github stats](https://github-readme-stats.vercel.app/api?username=LilyNov&show_icons=true&)](https://github.com/LilyNovx/github-readme-stats)
 
