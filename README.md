@@ -1,4 +1,4 @@
-<h2>Hello everyone! I had three team projects and many small own projects. During my last team project we had find a way to streamline our process to meet a deadline. First, we had a great team, we all followed the same goal. We held a brainstorming session where we generated ideas on how we can take our tasks successfully. In the end we managed to meet the deadline and made a presentation of the project at the appointed time.</h2>
+<h2>Hello everyone!</h2>
 
 <h3>I’m currently learning:</h3>
 
