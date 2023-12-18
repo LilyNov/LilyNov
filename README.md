@@ -14,7 +14,7 @@
 <h4>You can reach me in</h2>
 
 <p><a href="mailto:kplily85@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/lily-novikova-612178133/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/liliia-novykova/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 [![LilyNov`s github stats](https://github-readme-stats.vercel.app/api?username=LilyNov&show_icons=true&)](https://github.com/LilyNovx/github-readme-stats)
 
